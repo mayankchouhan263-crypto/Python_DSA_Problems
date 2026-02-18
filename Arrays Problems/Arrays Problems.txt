@@ -1,0 +1,51 @@
+Arrays Problems:
+
+1. Reverse an Array
+2. Find the Maximum & Minimum Element
+3. Find the Sum of Elements
+4. Find the Second Largest Element
+5. Count Frequency of Elements
+6. Check if Array is Sorted
+7. Rotate Array by k Positions: Rotate the array to the right by k positions.
+8. Find Pair with Given Sum: Find a pair of elements that adds up to a target sum.
+9. Remove Duplicates from Array: Remove duplicates from the array while maintaining order.
+10. Merge Two Sorted Arrays
+11. Remove given Element from Array
+12. Find the Missing Number: Find the missing number in an array of size n containing numbers from 1 to n.
+13. Find Duplicates in an Array
+14. Find Intersection of Two Arrays: Find the common elements between two arrays.
+15. Find Union of Two Arrays
+16. Check if Two Arrays Are Equal: if two arrays contain the same elements
+17. Find the Leader Elements: An element is a leader if it is greater than all elements to its right.
+18. Move Zeroes to End: Move all zeroes in an array to the end while maintaining the order of non-zero elements.
+19. Find Subarray with Given Sum.
+20. Rotate Array to the Left by k Positions
+21. Find the Kth Smallest Element
+22. Find All Subarrays
+23. Maximum Sum Subarray (Kadane's Algorithm)
+24. Rearrange Array Alternately: Rearrange an array such that elements alternate between the largest and smallest.
+25. Find Majority Element: Find the element that appears more than n/2 times.
+26. Find Peak Element: A peak element is greater than its neighbors. Find one such element.
+27. Find the First Missing Positive: Find the smallest positive integer missing in the array.
+28. Sort an Array of 0s, 1s, and 2s: Sort an array consisting of only 0s, 1s, and 2s.
+29. Find the Longest Consecutive Sequence: Find the length of the longest consecutive sequence of integers.
+30. Product of Array Except Self
+Given an array, return a new array where each element is the product of all elements except itself.
+Do not use division.
+
+Input: [1,2,3,4]
+Output: [24,12,8,6]
+31. Find Equilibrium Index: Find an index such that sum of elements on left = sum on right.
+32. Find Maximum Product Pair: Find two elements whose product is maximum.
+33. Find Maximum Difference (j > i)
+
+
+
+
+
+
+
+
+
+
+
